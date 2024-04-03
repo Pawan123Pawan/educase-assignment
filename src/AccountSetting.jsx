@@ -6,7 +6,6 @@ import { FaCamera } from "react-icons/fa";
 const AccountSetting = () => {
   const [userContext, setUserContext] = useUser();
   const navigate = useNavigate();
-  window.onload = () => navigate("/create-account");
   useEffect(() => {
     if (!userContext.name) {
       navigate("/create-account");
