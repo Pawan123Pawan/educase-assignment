@@ -22,4 +22,4 @@ To install and run this project, follow these steps:
 
 ## Deploy Link
 
-[Live Project link](https://choosealicense.com/licenses/mit/)
+[Live Project link](https://educase-assignment-pawan.vercel.app/)
